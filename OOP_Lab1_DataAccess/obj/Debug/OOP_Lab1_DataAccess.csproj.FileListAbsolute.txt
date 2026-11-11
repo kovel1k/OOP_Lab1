@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\OOP_Lab1_Var4_Classic_Framework\OOP_Lab1_Classic\OOP_Lab1_DataAccess\bin\Debug\OOP_Lab1_DataAccess.dll
+C:\Users\User\Desktop\OOP_Lab1_Var4_Classic_Framework\OOP_Lab1_Classic\OOP_Lab1_DataAccess\bin\Debug\OOP_Lab1_DataAccess.pdb
+C:\Users\User\Desktop\OOP_Lab1_Var4_Classic_Framework\OOP_Lab1_Classic\OOP_Lab1_DataAccess\obj\Debug\OOP_Lab1_DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OOP_Lab1_Var4_Classic_Framework\OOP_Lab1_Classic\OOP_Lab1_DataAccess\obj\Debug\OOP_Lab1_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOP_Lab1_Var4_Classic_Framework\OOP_Lab1_Classic\OOP_Lab1_DataAccess\obj\Debug\OOP_Lab1_DataAccess.dll
+C:\Users\User\Desktop\OOP_Lab1_Var4_Classic_Framework\OOP_Lab1_Classic\OOP_Lab1_DataAccess\obj\Debug\OOP_Lab1_DataAccess.pdb

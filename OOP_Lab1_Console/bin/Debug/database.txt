@@ -1,0 +1,37 @@
+﻿Student ОлександрІванов
+{
+  "firstname": "Олександр",
+  "lastname": "Іванов"
+,  "course": "5",
+  "studentId": "КВ123456",
+  "servedInArmy": "True",
+  "militaryId": "МК654321"
+};
+Student МаріяКоваленко
+{
+  "firstname": "Марія",
+  "lastname": "Коваленко"
+,  "course": "1",
+  "studentId": "КВ987654",
+  "servedInArmy": "False",
+  "militaryId": ""
+};
+Student ДмитроМаксименко
+{
+  "firstname": "Дмитро",
+  "lastname": "Максименко"
+,  "course": "5",
+  "studentId": "КВ111111",
+  "servedInArmy": "True",
+  "militaryId": "МК222222"
+};
+Lawyer ОлексійПетров
+{
+  "firstname": "Олексій",
+  "lastname": "Петров"
+};
+FootballPlayer АндрійШевченко
+{
+  "firstname": "Андрій",
+  "lastname": "Шевченко"
+};

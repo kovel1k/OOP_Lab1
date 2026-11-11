@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\OOP_Lab1_Var4_Classic_Framework\OOP_Lab1_Classic\OOP_Lab1_Console\obj\Debug\OOP_Lab1_Console.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OOP_Lab1_Var4_Classic_Framework\OOP_Lab1_Classic\OOP_Lab1_Console\obj\Debug\OOP_Lab1_Console.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOP_Lab1_Var4_Classic_Framework\OOP_Lab1_Classic\OOP_Lab1_Console\bin\Debug\OOP_Lab1_Console.exe
+C:\Users\User\Desktop\OOP_Lab1_Var4_Classic_Framework\OOP_Lab1_Classic\OOP_Lab1_Console\bin\Debug\OOP_Lab1_Console.pdb
+C:\Users\User\Desktop\OOP_Lab1_Var4_Classic_Framework\OOP_Lab1_Classic\OOP_Lab1_Console\bin\Debug\OOP_Lab1_DataAccess.dll
+C:\Users\User\Desktop\OOP_Lab1_Var4_Classic_Framework\OOP_Lab1_Classic\OOP_Lab1_Console\bin\Debug\OOP_Lab1_DataAccess.pdb
+C:\Users\User\Desktop\OOP_Lab1_Var4_Classic_Framework\OOP_Lab1_Classic\OOP_Lab1_Console\obj\Debug\OOP_Lab1_Console.csproj.CopyComplete
+C:\Users\User\Desktop\OOP_Lab1_Var4_Classic_Framework\OOP_Lab1_Classic\OOP_Lab1_Console\obj\Debug\OOP_Lab1_Console.exe
+C:\Users\User\Desktop\OOP_Lab1_Var4_Classic_Framework\OOP_Lab1_Classic\OOP_Lab1_Console\obj\Debug\OOP_Lab1_Console.pdb
